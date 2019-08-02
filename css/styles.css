@@ -10,7 +10,7 @@
 }
 
 .footer{
-    background-color:#c6b8df233, 0.733)9, 196, 233, 0.733);
+    background-color:#d6cfcf;
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
 }
@@ -31,4 +31,17 @@
 }
 .navbar-dark{
     background-color:#512DA8;
+}
+
+.radi label{
+    display: inline-block;
+    padding: 2px;
+    margin-right:75px;
+}
+.tab-content{
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 15px;
+
 }
