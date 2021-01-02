@@ -10,7 +10,7 @@
 }
 
 .footer{
-    background-color:#d6cfcf;
+    background-color:#d7c5f6;
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
 }
@@ -58,4 +58,9 @@ body{
     top: 0;
     left: 0;
     min-height: 300px;
+}
+#carouselButton{
+    position:absolute;
+    bottom:0;
+    right:0;
 }
